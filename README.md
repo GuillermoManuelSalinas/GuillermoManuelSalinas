@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hola a todos👋
+Soy Guillermo, un chico de España, y tengo 22 años. Actualmente estoy cursando el segundo año de un grado medio de SMR,
+que fue lo que me llevó a crearme una cuenta de GitHub.
 <!--
 **GuillermoManuelSalinas/GuillermoManuelSalinas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
